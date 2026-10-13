@@ -1,0 +1,239 @@
+{
+  "image": "/generated-assets/tool_icons_extra-transparent.webp",
+  "grid": {
+    "cols": 4,
+    "rows": 3,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "cloth",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 30,
+        "y": 47,
+        "w": 360,
+        "h": 317
+      },
+      "anchor": {
+        "x": 210,
+        "y": 363
+      }
+    },
+    {
+      "name": "small_brush",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 439,
+        "y": 18,
+        "w": 318,
+        "h": 367
+      },
+      "anchor": {
+        "x": 598,
+        "y": 384
+      }
+    },
+    {
+      "name": "heavy_cleaner",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 877,
+        "y": 16,
+        "w": 215,
+        "h": 372
+      },
+      "anchor": {
+        "x": 985,
+        "y": 387
+      }
+    },
+    {
+      "name": "heavy_duty",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1253,
+        "y": 18,
+        "w": 254,
+        "h": 369
+      },
+      "anchor": {
+        "x": 1380,
+        "y": 386
+      }
+    },
+    {
+      "name": "scraper",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 26,
+        "y": 408,
+        "w": 341,
+        "h": 356
+      },
+      "anchor": {
+        "x": 197,
+        "y": 763
+      }
+    },
+    {
+      "name": "mold_cleaner",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 508,
+        "y": 403,
+        "w": 197,
+        "h": 374
+      },
+      "anchor": {
+        "x": 607,
+        "y": 776
+      }
+    },
+    {
+      "name": "paint_remover",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 853,
+        "y": 417,
+        "w": 274,
+        "h": 360
+      },
+      "anchor": {
+        "x": 990,
+        "y": 776
+      }
+    },
+    {
+      "name": "sticky_cleaner",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1288,
+        "y": 404,
+        "w": 185,
+        "h": 373
+      },
+      "anchor": {
+        "x": 1381,
+        "y": 776
+      }
+    },
+    {
+      "name": "steam_cleaner",
+      "source": {
+        "x": 56,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 13,
+        "y": 809,
+        "w": 408,
+        "h": 345
+      },
+      "anchor": {
+        "x": 217,
+        "y": 1153
+      }
+    },
+    {
+      "name": "electric_scrubber",
+      "source": {
+        "x": 440,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 433,
+        "y": 793,
+        "w": 325,
+        "h": 371
+      },
+      "anchor": {
+        "x": 596,
+        "y": 1163
+      }
+    },
+    {
+      "name": "foam_sprayer",
+      "source": {
+        "x": 824,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 778,
+        "y": 793,
+        "w": 393,
+        "h": 371
+      },
+      "anchor": {
+        "x": 975,
+        "y": 1163
+      }
+    },
+    {
+      "name": "glass_polisher",
+      "source": {
+        "x": 1208,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1194,
+        "y": 820,
+        "w": 378,
+        "h": 333
+      },
+      "anchor": {
+        "x": 1383,
+        "y": 1152
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "image": "/generated-assets/cleaning_tool_effects-transparent.webp",
+  "grid": {
+    "cols": 3,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "contact_1",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 69,
+        "y": 109,
+        "w": 276,
+        "h": 211
+      },
+      "anchor": {
+        "x": 207,
+        "y": 319
+      }
+    },
+    {
+      "name": "contact_2",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 440,
+        "y": 71,
+        "w": 318,
+        "h": 269
+      },
+      "anchor": {
+        "x": 599,
+        "y": 339
+      }
+    },
+    {
+      "name": "contact_3",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 845,
+        "y": 70,
+        "w": 307,
+        "h": 271
+      },
+      "anchor": {
+        "x": 999,
+        "y": 340
+      }
+    },
+    {
+      "name": "contact_4",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 47,
+        "y": 446,
+        "w": 319,
+        "h": 302
+      },
+      "anchor": {
+        "x": 207,
+        "y": 747
+      }
+    },
+    {
+      "name": "contact_5",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 443,
+        "y": 446,
+        "w": 314,
+        "h": 290
+      },
+      "anchor": {
+        "x": 600,
+        "y": 735
+      }
+    },
+    {
+      "name": "contact_6",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 844,
+        "y": 446,
+        "w": 292,
+        "h": 300
+      },
+      "anchor": {
+        "x": 990,
+        "y": 745
+      }
+    }
+  ]
+}

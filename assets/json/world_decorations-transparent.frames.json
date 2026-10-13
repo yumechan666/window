@@ -1,0 +1,163 @@
+{
+  "image": "/generated-assets/world_decorations-transparent.webp",
+  "grid": {
+    "cols": 4,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "flower_box",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 21,
+        "y": 86,
+        "w": 362,
+        "h": 291
+      },
+      "anchor": {
+        "x": 202,
+        "y": 376
+      }
+    },
+    {
+      "name": "city_lamp",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 476,
+        "y": 19,
+        "w": 226,
+        "h": 389
+      },
+      "anchor": {
+        "x": 589,
+        "y": 407
+      }
+    },
+    {
+      "name": "cafe_awning",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 802,
+        "y": 115,
+        "w": 357,
+        "h": 248
+      },
+      "anchor": {
+        "x": 981,
+        "y": 362
+      }
+    },
+    {
+      "name": "school_banner",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1200,
+        "y": 120,
+        "w": 362,
+        "h": 183
+      },
+      "anchor": {
+        "x": 1381,
+        "y": 302
+      }
+    },
+    {
+      "name": "beach_shells",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 24,
+        "y": 436,
+        "w": 358,
+        "h": 300
+      },
+      "anchor": {
+        "x": 203,
+        "y": 735
+      }
+    },
+    {
+      "name": "forest_mushrooms",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 420,
+        "y": 429,
+        "w": 351,
+        "h": 320
+      },
+      "anchor": {
+        "x": 596,
+        "y": 748
+      }
+    },
+    {
+      "name": "snow_lights",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 810,
+        "y": 428,
+        "w": 351,
+        "h": 296
+      },
+      "anchor": {
+        "x": 986,
+        "y": 723
+      }
+    },
+    {
+      "name": "space_stars",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1225,
+        "y": 428,
+        "w": 318,
+        "h": 326
+      },
+      "anchor": {
+        "x": 1384,
+        "y": 753
+      }
+    }
+  ]
+}

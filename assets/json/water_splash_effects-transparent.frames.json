@@ -1,0 +1,125 @@
+{
+  "image": "/generated-assets/water_splash_effects-transparent.webp",
+  "grid": {
+    "cols": 3,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "splash_1",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 74,
+        "y": 93,
+        "w": 253,
+        "h": 245
+      },
+      "anchor": {
+        "x": 201,
+        "y": 337
+      }
+    },
+    {
+      "name": "splash_2",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 433,
+        "y": 115,
+        "w": 324,
+        "h": 229
+      },
+      "anchor": {
+        "x": 595,
+        "y": 343
+      }
+    },
+    {
+      "name": "splash_3",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 816,
+        "y": 138,
+        "w": 336,
+        "h": 232
+      },
+      "anchor": {
+        "x": 984,
+        "y": 369
+      }
+    },
+    {
+      "name": "splash_4",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 43,
+        "y": 484,
+        "w": 327,
+        "h": 239
+      },
+      "anchor": {
+        "x": 207,
+        "y": 722
+      }
+    },
+    {
+      "name": "splash_5",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 445,
+        "y": 514,
+        "w": 295,
+        "h": 197
+      },
+      "anchor": {
+        "x": 593,
+        "y": 710
+      }
+    },
+    {
+      "name": "splash_6",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 842,
+        "y": 546,
+        "w": 279,
+        "h": 145
+      },
+      "anchor": {
+        "x": 982,
+        "y": 690
+      }
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "image": "/generated-assets/grime_decals_extra-transparent.webp",
+  "grid": {
+    "cols": 3,
+    "rows": 3,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "fingerprint",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 32,
+        "y": 29,
+        "w": 340,
+        "h": 355
+      },
+      "anchor": {
+        "x": 202,
+        "y": 383
+      }
+    },
+    {
+      "name": "mold",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 433,
+        "y": 35,
+        "w": 335,
+        "h": 348
+      },
+      "anchor": {
+        "x": 601,
+        "y": 382
+      }
+    },
+    {
+      "name": "mud",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 821,
+        "y": 29,
+        "w": 348,
+        "h": 356
+      },
+      "anchor": {
+        "x": 995,
+        "y": 384
+      }
+    },
+    {
+      "name": "food_stain",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 23,
+        "y": 431,
+        "w": 348,
+        "h": 335
+      },
+      "anchor": {
+        "x": 197,
+        "y": 765
+      }
+    },
+    {
+      "name": "paint",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 419,
+        "y": 428,
+        "w": 355,
+        "h": 344
+      },
+      "anchor": {
+        "x": 597,
+        "y": 771
+      }
+    },
+    {
+      "name": "sticky",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 830,
+        "y": 433,
+        "w": 345,
+        "h": 339
+      },
+      "anchor": {
+        "x": 1003,
+        "y": 771
+      }
+    },
+    {
+      "name": "heavy_stain",
+      "source": {
+        "x": 440,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 390,
+        "y": 806,
+        "w": 422,
+        "h": 358
+      },
+      "anchor": {
+        "x": 601,
+        "y": 1163
+      }
+    }
+  ]
+}

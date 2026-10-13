@@ -1,0 +1,163 @@
+{
+  "image": "/generated-assets/world_props-transparent.webp",
+  "grid": {
+    "cols": 4,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "potted_plant",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 51,
+        "y": 41,
+        "w": 340,
+        "h": 344
+      },
+      "anchor": {
+        "x": 221,
+        "y": 384
+      }
+    },
+    {
+      "name": "cafe_chair",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 474,
+        "y": 15,
+        "w": 252,
+        "h": 375
+      },
+      "anchor": {
+        "x": 600,
+        "y": 389
+      }
+    },
+    {
+      "name": "school_bus",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 813,
+        "y": 76,
+        "w": 363,
+        "h": 292
+      },
+      "anchor": {
+        "x": 995,
+        "y": 367
+      }
+    },
+    {
+      "name": "hospital_sign",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1239,
+        "y": 54,
+        "w": 306,
+        "h": 276
+      },
+      "anchor": {
+        "x": 1392,
+        "y": 329
+      }
+    },
+    {
+      "name": "beach_umbrella",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 40,
+        "y": 426,
+        "w": 353,
+        "h": 357
+      },
+      "anchor": {
+        "x": 217,
+        "y": 782
+      }
+    },
+    {
+      "name": "pine_tree",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 446,
+        "y": 417,
+        "w": 307,
+        "h": 367
+      },
+      "anchor": {
+        "x": 600,
+        "y": 783
+      }
+    },
+    {
+      "name": "castle_flag",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 846,
+        "y": 416,
+        "w": 320,
+        "h": 363
+      },
+      "anchor": {
+        "x": 1006,
+        "y": 778
+      }
+    },
+    {
+      "name": "airport_cart",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1213,
+        "y": 427,
+        "w": 331,
+        "h": 355
+      },
+      "anchor": {
+        "x": 1379,
+        "y": 781
+      }
+    }
+  ]
+}

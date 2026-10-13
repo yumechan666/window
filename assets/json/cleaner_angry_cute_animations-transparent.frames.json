@@ -1,0 +1,125 @@
+{
+  "image": "/generated-assets/cleaner_angry_cute_animations-transparent.webp",
+  "grid": {
+    "cols": 3,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "annoyed_1",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 46,
+        "y": 23,
+        "w": 312,
+        "h": 381
+      },
+      "anchor": {
+        "x": 202,
+        "y": 403
+      }
+    },
+    {
+      "name": "annoyed_2",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 429,
+        "y": 27,
+        "w": 321,
+        "h": 377
+      },
+      "anchor": {
+        "x": 590,
+        "y": 403
+      }
+    },
+    {
+      "name": "annoyed_3",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 817,
+        "y": 28,
+        "w": 359,
+        "h": 376
+      },
+      "anchor": {
+        "x": 997,
+        "y": 403
+      }
+    },
+    {
+      "name": "annoyed_4",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 38,
+        "y": 434,
+        "w": 310,
+        "h": 364
+      },
+      "anchor": {
+        "x": 193,
+        "y": 797
+      }
+    },
+    {
+      "name": "annoyed_5",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 449,
+        "y": 436,
+        "w": 312,
+        "h": 362
+      },
+      "anchor": {
+        "x": 605,
+        "y": 797
+      }
+    },
+    {
+      "name": "annoyed_6",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 837,
+        "y": 436,
+        "w": 302,
+        "h": 362
+      },
+      "anchor": {
+        "x": 988,
+        "y": 797
+      }
+    }
+  ]
+}

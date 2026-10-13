@@ -1,0 +1,125 @@
+{
+  "image": "/generated-assets/grime_decals-transparent.webp",
+  "grid": {
+    "cols": 3,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "dust",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 36,
+        "y": 37,
+        "w": 335,
+        "h": 325
+      },
+      "anchor": {
+        "x": 204,
+        "y": 361
+      }
+    },
+    {
+      "name": "water_mark",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 442,
+        "y": 29,
+        "w": 312,
+        "h": 352
+      },
+      "anchor": {
+        "x": 598,
+        "y": 380
+      }
+    },
+    {
+      "name": "grease",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 821,
+        "y": 24,
+        "w": 351,
+        "h": 345
+      },
+      "anchor": {
+        "x": 997,
+        "y": 368
+      }
+    },
+    {
+      "name": "scale",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 32,
+        "y": 426,
+        "w": 342,
+        "h": 343
+      },
+      "anchor": {
+        "x": 203,
+        "y": 768
+      }
+    },
+    {
+      "name": "insect_splat",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 429,
+        "y": 426,
+        "w": 336,
+        "h": 340
+      },
+      "anchor": {
+        "x": 597,
+        "y": 765
+      }
+    },
+    {
+      "name": "bird_mess",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 821,
+        "y": 423,
+        "w": 352,
+        "h": 357
+      },
+      "anchor": {
+        "x": 997,
+        "y": 779
+      }
+    }
+  ]
+}

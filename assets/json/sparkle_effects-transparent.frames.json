@@ -1,0 +1,125 @@
+{
+  "image": "/generated-assets/sparkle_effects-transparent.webp",
+  "grid": {
+    "cols": 3,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "sparkle_1",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 152,
+        "y": 141,
+        "w": 128,
+        "h": 128
+      },
+      "anchor": {
+        "x": 216,
+        "y": 268
+      }
+    },
+    {
+      "name": "sparkle_2",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 480,
+        "y": 81,
+        "w": 240,
+        "h": 250
+      },
+      "anchor": {
+        "x": 600,
+        "y": 330
+      }
+    },
+    {
+      "name": "sparkle_3",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 817,
+        "y": 36,
+        "w": 347,
+        "h": 352
+      },
+      "anchor": {
+        "x": 991,
+        "y": 387
+      }
+    },
+    {
+      "name": "sparkle_4",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 60,
+        "y": 450,
+        "w": 296,
+        "h": 291
+      },
+      "anchor": {
+        "x": 208,
+        "y": 740
+      }
+    },
+    {
+      "name": "sparkle_5",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 504,
+        "y": 492,
+        "w": 194,
+        "h": 209
+      },
+      "anchor": {
+        "x": 601,
+        "y": 700
+      }
+    },
+    {
+      "name": "sparkle_6",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 914,
+        "y": 516,
+        "w": 142,
+        "h": 155
+      },
+      "anchor": {
+        "x": 985,
+        "y": 670
+      }
+    }
+  ]
+}

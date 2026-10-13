@@ -1,0 +1,163 @@
+{
+  "image": "/generated-assets/world_special_locations-transparent.webp",
+  "grid": {
+    "cols": 4,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "ferris_wheel",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 39,
+        "y": 24,
+        "w": 330,
+        "h": 344
+      },
+      "anchor": {
+        "x": 204,
+        "y": 367
+      }
+    },
+    {
+      "name": "train",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 404,
+        "y": 108,
+        "w": 378,
+        "h": 256
+      },
+      "anchor": {
+        "x": 593,
+        "y": 363
+      }
+    },
+    {
+      "name": "airplane",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 805,
+        "y": 117,
+        "w": 385,
+        "h": 190
+      },
+      "anchor": {
+        "x": 998,
+        "y": 306
+      }
+    },
+    {
+      "name": "control_tower",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1232,
+        "y": 24,
+        "w": 302,
+        "h": 344
+      },
+      "anchor": {
+        "x": 1383,
+        "y": 367
+      }
+    },
+    {
+      "name": "sky_tower",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 55,
+        "y": 409,
+        "w": 286,
+        "h": 360
+      },
+      "anchor": {
+        "x": 198,
+        "y": 768
+      }
+    },
+    {
+      "name": "castle_gate",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 400,
+        "y": 413,
+        "w": 382,
+        "h": 353
+      },
+      "anchor": {
+        "x": 591,
+        "y": 765
+      }
+    },
+    {
+      "name": "hospital_entrance",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 804,
+        "y": 457,
+        "w": 370,
+        "h": 289
+      },
+      "anchor": {
+        "x": 989,
+        "y": 745
+      }
+    },
+    {
+      "name": "shopping_fountain",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1204,
+        "y": 416,
+        "w": 350,
+        "h": 370
+      },
+      "anchor": {
+        "x": 1379,
+        "y": 785
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "image": "/generated-assets/cleaner_cleaning_poses-transparent.webp",
+  "grid": {
+    "cols": 3,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "cat",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 48,
+        "y": 39,
+        "w": 345,
+        "h": 347
+      },
+      "anchor": {
+        "x": 221,
+        "y": 385
+      }
+    },
+    {
+      "name": "bunny",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 427,
+        "y": 18,
+        "w": 361,
+        "h": 367
+      },
+      "anchor": {
+        "x": 608,
+        "y": 384
+      }
+    },
+    {
+      "name": "puppy",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 805,
+        "y": 30,
+        "w": 374,
+        "h": 334
+      },
+      "anchor": {
+        "x": 992,
+        "y": 363
+      }
+    },
+    {
+      "name": "panda",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 24,
+        "y": 396,
+        "w": 363,
+        "h": 380
+      },
+      "anchor": {
+        "x": 206,
+        "y": 775
+      }
+    },
+    {
+      "name": "fox",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 414,
+        "y": 402,
+        "w": 355,
+        "h": 374
+      },
+      "anchor": {
+        "x": 592,
+        "y": 775
+      }
+    },
+    {
+      "name": "robot",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 821,
+        "y": 402,
+        "w": 354,
+        "h": 378
+      },
+      "anchor": {
+        "x": 998,
+        "y": 779
+      }
+    }
+  ]
+}

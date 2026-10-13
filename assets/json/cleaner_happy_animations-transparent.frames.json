@@ -1,0 +1,125 @@
+{
+  "image": "/generated-assets/cleaner_happy_animations-transparent.webp",
+  "grid": {
+    "cols": 3,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "happy_1",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 43,
+        "y": 19,
+        "w": 315,
+        "h": 368
+      },
+      "anchor": {
+        "x": 201,
+        "y": 386
+      }
+    },
+    {
+      "name": "happy_2",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 436,
+        "y": 9,
+        "w": 336,
+        "h": 372
+      },
+      "anchor": {
+        "x": 604,
+        "y": 380
+      }
+    },
+    {
+      "name": "happy_3",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 841,
+        "y": 12,
+        "w": 322,
+        "h": 336
+      },
+      "anchor": {
+        "x": 1002,
+        "y": 347
+      }
+    },
+    {
+      "name": "happy_4",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 40,
+        "y": 422,
+        "w": 325,
+        "h": 370
+      },
+      "anchor": {
+        "x": 203,
+        "y": 791
+      }
+    },
+    {
+      "name": "happy_5",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 443,
+        "y": 426,
+        "w": 315,
+        "h": 361
+      },
+      "anchor": {
+        "x": 601,
+        "y": 786
+      }
+    },
+    {
+      "name": "happy_6",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 849,
+        "y": 428,
+        "w": 302,
+        "h": 369
+      },
+      "anchor": {
+        "x": 1000,
+        "y": 796
+      }
+    }
+  ]
+}

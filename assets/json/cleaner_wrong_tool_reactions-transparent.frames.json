@@ -1,0 +1,125 @@
+{
+  "image": "/generated-assets/cleaner_wrong_tool_reactions-transparent.webp",
+  "grid": {
+    "cols": 3,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "cat",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 40,
+        "y": 21,
+        "w": 377,
+        "h": 375
+      },
+      "anchor": {
+        "x": 229,
+        "y": 395
+      }
+    },
+    {
+      "name": "bunny",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 441,
+        "y": 29,
+        "w": 331,
+        "h": 361
+      },
+      "anchor": {
+        "x": 607,
+        "y": 389
+      }
+    },
+    {
+      "name": "puppy",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 842,
+        "y": 29,
+        "w": 303,
+        "h": 366
+      },
+      "anchor": {
+        "x": 994,
+        "y": 394
+      }
+    },
+    {
+      "name": "panda",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 58,
+        "y": 435,
+        "w": 301,
+        "h": 356
+      },
+      "anchor": {
+        "x": 209,
+        "y": 790
+      }
+    },
+    {
+      "name": "fox",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 464,
+        "y": 396,
+        "w": 331,
+        "h": 394
+      },
+      "anchor": {
+        "x": 630,
+        "y": 789
+      }
+    },
+    {
+      "name": "robot",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 822,
+        "y": 409,
+        "w": 336,
+        "h": 382
+      },
+      "anchor": {
+        "x": 990,
+        "y": 790
+      }
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "image": "/generated-assets/cleaner_skins_set_5-transparent.webp",
+  "grid": {
+    "cols": 4,
+    "rows": 3,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "red_panda_idle",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 31,
+        "y": 9,
+        "w": 359,
+        "h": 380
+      },
+      "anchor": {
+        "x": 211,
+        "y": 388
+      }
+    },
+    {
+      "name": "red_panda_annoyed",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 457,
+        "y": 17,
+        "w": 312,
+        "h": 376
+      },
+      "anchor": {
+        "x": 613,
+        "y": 392
+      }
+    },
+    {
+      "name": "otter_idle",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 825,
+        "y": 33,
+        "w": 309,
+        "h": 360
+      },
+      "anchor": {
+        "x": 980,
+        "y": 392
+      }
+    },
+    {
+      "name": "otter_annoyed",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1257,
+        "y": 28,
+        "w": 280,
+        "h": 365
+      },
+      "anchor": {
+        "x": 1397,
+        "y": 392
+      }
+    },
+    {
+      "name": "capybara_idle",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 31,
+        "y": 413,
+        "w": 343,
+        "h": 390
+      },
+      "anchor": {
+        "x": 203,
+        "y": 802
+      }
+    },
+    {
+      "name": "capybara_annoyed",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 480,
+        "y": 414,
+        "w": 254,
+        "h": 388
+      },
+      "anchor": {
+        "x": 607,
+        "y": 801
+      }
+    },
+    {
+      "name": "unicorn_idle",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 824,
+        "y": 414,
+        "w": 342,
+        "h": 389
+      },
+      "anchor": {
+        "x": 995,
+        "y": 802
+      }
+    },
+    {
+      "name": "unicorn_annoyed",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1252,
+        "y": 422,
+        "w": 290,
+        "h": 381
+      },
+      "anchor": {
+        "x": 1397,
+        "y": 802
+      }
+    },
+    {
+      "name": "robot_idle",
+      "source": {
+        "x": 56,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 28,
+        "y": 812,
+        "w": 344,
+        "h": 381
+      },
+      "anchor": {
+        "x": 200,
+        "y": 1192
+      }
+    },
+    {
+      "name": "robot_annoyed",
+      "source": {
+        "x": 440,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 467,
+        "y": 812,
+        "w": 279,
+        "h": 380
+      },
+      "anchor": {
+        "x": 607,
+        "y": 1191
+      }
+    },
+    {
+      "name": "alien_idle",
+      "source": {
+        "x": 824,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 836,
+        "y": 814,
+        "w": 333,
+        "h": 378
+      },
+      "anchor": {
+        "x": 1003,
+        "y": 1191
+      }
+    },
+    {
+      "name": "alien_annoyed",
+      "source": {
+        "x": 1208,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1242,
+        "y": 817,
+        "w": 312,
+        "h": 375
+      },
+      "anchor": {
+        "x": 1398,
+        "y": 1191
+      }
+    }
+  ]
+}

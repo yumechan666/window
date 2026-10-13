@@ -1,0 +1,125 @@
+{
+  "image": "/generated-assets/window_large_types-transparent.webp",
+  "grid": {
+    "cols": 3,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "storefront",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 32,
+        "y": 23,
+        "w": 350,
+        "h": 350
+      },
+      "anchor": {
+        "x": 207,
+        "y": 372
+      }
+    },
+    {
+      "name": "hospital_wall",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 436,
+        "y": 39,
+        "w": 328,
+        "h": 325
+      },
+      "anchor": {
+        "x": 600,
+        "y": 363
+      }
+    },
+    {
+      "name": "cafe_bay",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 825,
+        "y": 23,
+        "w": 340,
+        "h": 350
+      },
+      "anchor": {
+        "x": 995,
+        "y": 372
+      }
+    },
+    {
+      "name": "school_hall",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 34,
+        "y": 433,
+        "w": 346,
+        "h": 327
+      },
+      "anchor": {
+        "x": 207,
+        "y": 759
+      }
+    },
+    {
+      "name": "castle_arch",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 431,
+        "y": 397,
+        "w": 338,
+        "h": 381
+      },
+      "anchor": {
+        "x": 600,
+        "y": 777
+      }
+    },
+    {
+      "name": "sky_observatory",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 816,
+        "y": 416,
+        "w": 359,
+        "h": 367
+      },
+      "anchor": {
+        "x": 996,
+        "y": 782
+      }
+    }
+  ]
+}

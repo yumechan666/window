@@ -1,0 +1,125 @@
+{
+  "image": "/generated-assets/cleaner_skins_set_6-transparent.webp",
+  "grid": {
+    "cols": 3,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "ghost_idle",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 34,
+        "y": 34,
+        "w": 351,
+        "h": 345
+      },
+      "anchor": {
+        "x": 210,
+        "y": 378
+      }
+    },
+    {
+      "name": "ghost_annoyed",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 432,
+        "y": 20,
+        "w": 319,
+        "h": 365
+      },
+      "anchor": {
+        "x": 592,
+        "y": 384
+      }
+    },
+    {
+      "name": "witch_idle",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 801,
+        "y": 21,
+        "w": 362,
+        "h": 385
+      },
+      "anchor": {
+        "x": 982,
+        "y": 405
+      }
+    },
+    {
+      "name": "witch_annoyed",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 26,
+        "y": 403,
+        "w": 355,
+        "h": 391
+      },
+      "anchor": {
+        "x": 204,
+        "y": 793
+      }
+    },
+    {
+      "name": "astronaut_idle",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 420,
+        "y": 418,
+        "w": 381,
+        "h": 373
+      },
+      "anchor": {
+        "x": 611,
+        "y": 790
+      }
+    },
+    {
+      "name": "astronaut_annoyed",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 833,
+        "y": 425,
+        "w": 317,
+        "h": 366
+      },
+      "anchor": {
+        "x": 992,
+        "y": 790
+      }
+    }
+  ]
+}

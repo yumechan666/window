@@ -1,0 +1,125 @@
+{
+  "image": "/generated-assets/world_backdrops_extra-transparent.webp",
+  "grid": {
+    "cols": 3,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "hospital",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 51,
+        "y": 34,
+        "w": 333,
+        "h": 349
+      },
+      "anchor": {
+        "x": 218,
+        "y": 382
+      }
+    },
+    {
+      "name": "shopping",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 439,
+        "y": 34,
+        "w": 327,
+        "h": 349
+      },
+      "anchor": {
+        "x": 603,
+        "y": 382
+      }
+    },
+    {
+      "name": "forest",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 821,
+        "y": 34,
+        "w": 329,
+        "h": 349
+      },
+      "anchor": {
+        "x": 986,
+        "y": 382
+      }
+    },
+    {
+      "name": "amusement_park",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 52,
+        "y": 419,
+        "w": 332,
+        "h": 348
+      },
+      "anchor": {
+        "x": 218,
+        "y": 766
+      }
+    },
+    {
+      "name": "train_station",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 439,
+        "y": 427,
+        "w": 327,
+        "h": 340
+      },
+      "anchor": {
+        "x": 603,
+        "y": 766
+      }
+    },
+    {
+      "name": "airport",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 819,
+        "y": 428,
+        "w": 331,
+        "h": 339
+      },
+      "anchor": {
+        "x": 985,
+        "y": 766
+      }
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "image": "/generated-assets/cleaning_liquids-transparent.webp",
+  "grid": {
+    "cols": 4,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "glass_cleaner",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 96,
+        "y": 15,
+        "w": 205,
+        "h": 374
+      },
+      "anchor": {
+        "x": 199,
+        "y": 388
+      }
+    },
+    {
+      "name": "degreaser",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 471,
+        "y": 15,
+        "w": 210,
+        "h": 375
+      },
+      "anchor": {
+        "x": 576,
+        "y": 389
+      }
+    },
+    {
+      "name": "descaler",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 885,
+        "y": 16,
+        "w": 184,
+        "h": 374
+      },
+      "anchor": {
+        "x": 977,
+        "y": 389
+      }
+    },
+    {
+      "name": "mold_cleaner",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1272,
+        "y": 15,
+        "w": 208,
+        "h": 375
+      },
+      "anchor": {
+        "x": 1376,
+        "y": 389
+      }
+    },
+    {
+      "name": "heavy_cleaner",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 55,
+        "y": 428,
+        "w": 297,
+        "h": 358
+      },
+      "anchor": {
+        "x": 204,
+        "y": 785
+      }
+    },
+    {
+      "name": "paint_remover",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 510,
+        "y": 416,
+        "w": 161,
+        "h": 378
+      },
+      "anchor": {
+        "x": 591,
+        "y": 793
+      }
+    },
+    {
+      "name": "sticky_cleaner",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 856,
+        "y": 415,
+        "w": 211,
+        "h": 380
+      },
+      "anchor": {
+        "x": 962,
+        "y": 794
+      }
+    },
+    {
+      "name": "foam_solution",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1234,
+        "y": 413,
+        "w": 331,
+        "h": 381
+      },
+      "anchor": {
+        "x": 1400,
+        "y": 793
+      }
+    }
+  ]
+}

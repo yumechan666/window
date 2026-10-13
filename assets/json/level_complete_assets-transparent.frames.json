@@ -1,0 +1,125 @@
+{
+  "image": "/generated-assets/level_complete_assets-transparent.webp",
+  "grid": {
+    "cols": 3,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "clean_stamp",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 39,
+        "y": 40,
+        "w": 335,
+        "h": 334
+      },
+      "anchor": {
+        "x": 207,
+        "y": 373
+      }
+    },
+    {
+      "name": "shine_arc",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 423,
+        "y": 31,
+        "w": 355,
+        "h": 339
+      },
+      "anchor": {
+        "x": 601,
+        "y": 369
+      }
+    },
+    {
+      "name": "foam_corners",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 826,
+        "y": 33,
+        "w": 343,
+        "h": 341
+      },
+      "anchor": {
+        "x": 998,
+        "y": 373
+      }
+    },
+    {
+      "name": "confetti",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 35,
+        "y": 414,
+        "w": 339,
+        "h": 340
+      },
+      "anchor": {
+        "x": 205,
+        "y": 753
+      }
+    },
+    {
+      "name": "perfect_crown",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 436,
+        "y": 407,
+        "w": 329,
+        "h": 347
+      },
+      "anchor": {
+        "x": 601,
+        "y": 753
+      }
+    },
+    {
+      "name": "clean_window",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 825,
+        "y": 407,
+        "w": 345,
+        "h": 337
+      },
+      "anchor": {
+        "x": 998,
+        "y": 743
+      }
+    }
+  ]
+}

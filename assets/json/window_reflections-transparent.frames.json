@@ -1,0 +1,125 @@
+{
+  "image": "/generated-assets/window_reflections-transparent.webp",
+  "grid": {
+    "cols": 3,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "sky_streak",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 56,
+        "y": 55,
+        "w": 304,
+        "h": 291
+      },
+      "anchor": {
+        "x": 208,
+        "y": 345
+      }
+    },
+    {
+      "name": "cloud_reflection",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 431,
+        "y": 59,
+        "w": 329,
+        "h": 288
+      },
+      "anchor": {
+        "x": 596,
+        "y": 346
+      }
+    },
+    {
+      "name": "city_lights",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 849,
+        "y": 62,
+        "w": 287,
+        "h": 278
+      },
+      "anchor": {
+        "x": 993,
+        "y": 339
+      }
+    },
+    {
+      "name": "tree_reflection",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 49,
+        "y": 431,
+        "w": 324,
+        "h": 329
+      },
+      "anchor": {
+        "x": 211,
+        "y": 759
+      }
+    },
+    {
+      "name": "sunset_reflection",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 437,
+        "y": 437,
+        "w": 324,
+        "h": 313
+      },
+      "anchor": {
+        "x": 599,
+        "y": 749
+      }
+    },
+    {
+      "name": "moon_reflection",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 847,
+        "y": 438,
+        "w": 285,
+        "h": 302
+      },
+      "anchor": {
+        "x": 990,
+        "y": 739
+      }
+    }
+  ]
+}

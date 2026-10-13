@@ -1,0 +1,163 @@
+{
+  "image": "/generated-assets/cleaner_expressions-transparent.webp",
+  "grid": {
+    "cols": 4,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "neutral",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 36,
+        "y": 58,
+        "w": 338,
+        "h": 321
+      },
+      "anchor": {
+        "x": 205,
+        "y": 378
+      }
+    },
+    {
+      "name": "curious",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 423,
+        "y": 28,
+        "w": 346,
+        "h": 354
+      },
+      "anchor": {
+        "x": 596,
+        "y": 381
+      }
+    },
+    {
+      "name": "focused",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 824,
+        "y": 58,
+        "w": 331,
+        "h": 322
+      },
+      "anchor": {
+        "x": 990,
+        "y": 379
+      }
+    },
+    {
+      "name": "delighted",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1217,
+        "y": 31,
+        "w": 344,
+        "h": 344
+      },
+      "anchor": {
+        "x": 1389,
+        "y": 374
+      }
+    },
+    {
+      "name": "proud",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 37,
+        "y": 435,
+        "w": 360,
+        "h": 321
+      },
+      "anchor": {
+        "x": 217,
+        "y": 755
+      }
+    },
+    {
+      "name": "worried",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 403,
+        "y": 459,
+        "w": 386,
+        "h": 298
+      },
+      "anchor": {
+        "x": 596,
+        "y": 756
+      }
+    },
+    {
+      "name": "annoyed",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 797,
+        "y": 463,
+        "w": 387,
+        "h": 294
+      },
+      "anchor": {
+        "x": 991,
+        "y": 756
+      }
+    },
+    {
+      "name": "surprised",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1191,
+        "y": 416,
+        "w": 357,
+        "h": 341
+      },
+      "anchor": {
+        "x": 1370,
+        "y": 756
+      }
+    }
+  ]
+}

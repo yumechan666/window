@@ -1,0 +1,239 @@
+{
+  "image": "/generated-assets/cleaner_skins_set_3-transparent.webp",
+  "grid": {
+    "cols": 4,
+    "rows": 3,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "bear_idle",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 39,
+        "y": 24,
+        "w": 322,
+        "h": 365
+      },
+      "anchor": {
+        "x": 200,
+        "y": 388
+      }
+    },
+    {
+      "name": "bear_annoyed",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 456,
+        "y": 23,
+        "w": 273,
+        "h": 369
+      },
+      "anchor": {
+        "x": 593,
+        "y": 391
+      }
+    },
+    {
+      "name": "hamster_idle",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 847,
+        "y": 50,
+        "w": 283,
+        "h": 343
+      },
+      "anchor": {
+        "x": 989,
+        "y": 392
+      }
+    },
+    {
+      "name": "hamster_annoyed",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1233,
+        "y": 47,
+        "w": 281,
+        "h": 346
+      },
+      "anchor": {
+        "x": 1374,
+        "y": 392
+      }
+    },
+    {
+      "name": "mouse_idle",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 43,
+        "y": 409,
+        "w": 341,
+        "h": 370
+      },
+      "anchor": {
+        "x": 214,
+        "y": 778
+      }
+    },
+    {
+      "name": "mouse_annoyed",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 431,
+        "y": 413,
+        "w": 336,
+        "h": 369
+      },
+      "anchor": {
+        "x": 599,
+        "y": 781
+      }
+    },
+    {
+      "name": "koala_idle",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 813,
+        "y": 416,
+        "w": 359,
+        "h": 367
+      },
+      "anchor": {
+        "x": 993,
+        "y": 782
+      }
+    },
+    {
+      "name": "koala_annoyed",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1207,
+        "y": 419,
+        "w": 354,
+        "h": 366
+      },
+      "anchor": {
+        "x": 1384,
+        "y": 784
+      }
+    },
+    {
+      "name": "duck_idle",
+      "source": {
+        "x": 56,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 23,
+        "y": 795,
+        "w": 323,
+        "h": 374
+      },
+      "anchor": {
+        "x": 185,
+        "y": 1168
+      }
+    },
+    {
+      "name": "duck_annoyed",
+      "source": {
+        "x": 440,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 460,
+        "y": 796,
+        "w": 231,
+        "h": 373
+      },
+      "anchor": {
+        "x": 576,
+        "y": 1168
+      }
+    },
+    {
+      "name": "chicken_idle",
+      "source": {
+        "x": 824,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 815,
+        "y": 794,
+        "w": 339,
+        "h": 378
+      },
+      "anchor": {
+        "x": 985,
+        "y": 1171
+      }
+    },
+    {
+      "name": "chicken_annoyed",
+      "source": {
+        "x": 1208,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1252,
+        "y": 794,
+        "w": 280,
+        "h": 379
+      },
+      "anchor": {
+        "x": 1392,
+        "y": 1172
+      }
+    }
+  ]
+}
